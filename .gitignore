@@ -1,0 +1,18 @@
+
+source code/[Ll]ibrary/
+source code/[Tt]emp/
+source code/[Oo]bj/
+source code/[Ll]ogs/
+source code/[Uu]serSettings/
+source code/[Mm]emoryCaptures/
+
+
+source code/*.csproj
+source code/*.sln
+source code/*.suo
+source code/*.user
+source code/*.userprefs
+source code/.vscode/
+
+.DS_Store
+Thumbs.db
